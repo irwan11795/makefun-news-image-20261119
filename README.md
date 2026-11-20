@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 — the world's news in one picture
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261119-blue)](https://make.fun/c/news-image-20261119)
-[![Stories](https://img.shields.io/badge/stories-55-red)](https://github.com/irwan11795/makefun-news-image-20261119)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/irwan11795/makefun-news-image-20261119/blob/main/LICENSE)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/irwan11795/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/irwan11795/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 One 1024×1024 magazine-style page that sums up Thursday 19 November 2026:
 **55 stories** — 1 hero story with a drawn diagram (the Shenzhen summit),
